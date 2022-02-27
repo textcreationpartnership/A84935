@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The frogges of Egypt, or the caterpillers of the commonwealth truely dissected and laid open; vvith the subjects thankefulnesse unto God for their deliverance from that nest of vermine.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84935</idno>
+            <idno type="STC">Wing F2234</idno>
+            <idno type="STC">Thomason E166_2</idno>
+            <idno type="STC">ESTC R23160</idno>
+            <idno type="EEBO-CITATION">99871928</idno>
+            <idno type="PROQUEST">99871928</idno>
+            <idno type="VID">156980</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84935)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156980)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 29:E166[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The frogges of Egypt, or the caterpillers of the commonwealth truely dissected and laid open; vvith the subjects thankefulnesse unto God for their deliverance from that nest of vermine.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monopolies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156980:1"/>
+            <!-- PDF PAGE 7 -->
+            <pb facs="tcp:156980:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>THE FROGGES OF EGYPT, OR The CATERPILLERS of the COMMON-WEALTH truely Diſſected and laid open;</p>
+            <p>VVith the Subjects <hi>Thankefulneſſe</hi> unto GOD for their deliverance from that Neſt of VERMINE.</p>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="political_tract">
+            <pb facs="tcp:156980:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb n="1" facs="tcp:156980:2"/>
+            <!-- PDF PAGE 8 -->
+            <head>THE FROGS OF EGYPT, OR THE CATTERPILLERS OF THE COMMON-WEALTH.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Onopolers by their nefarious Pro<g ref="char:EOLhyphen"/>jects, and impious exactions, have con<g ref="char:EOLhyphen"/>taminated the Land with ſuch a con<g ref="char:EOLhyphen"/>tagious exulceration of wicked im<g ref="char:EOLhyphen"/>poſitions, that I may with a coequall ſympathie, aſſimulate them to the <hi>Frogs of Aegypt.</hi> Firſt, In regard that thoſe Frogs were the ſecond Plague that was brought upon the <hi>Aegyptians:</hi> So theſe Monopolers (in reſpect that Biſhops had the priority) were the ſecond Plague, which with diſaſtrous aſperſions, did infect our Nation. Secondly, As thoſe Frogs came unto <hi>Pharaoes</hi> Bed<g ref="char:EOLhyphen"/>chamber, and upon his Bed: So theſe Diabolicall <hi>Pa<g ref="char:EOLhyphen"/>raſites,</hi> did creeep into our Kings boſome, with their Phariticall Calumny. Thirdly, Thoſe Frogs did come upon all the people in <hi>Aegypt,</hi> throughout their Territories: And who is there in all our Kingdom, that have not beene infected bv the contagion of their ve<g ref="char:EOLhyphen"/>nenoſive aſperſions: they were a Neſt of Waſpes, which did Tyrannically ſting the Kings loyal Subjects with their exacting impoſitions: They were a ſwarme
+<pb n="2" facs="tcp:156980:3"/>
+               <!-- PDF PAGE 9 -->of Vermine, which did pollute ſincere purity, and like the <hi>Frogs of Aegypt,</hi> did over-creep the Land. They warmed themſelves at other mens fires, and though the peoples fingers ends were a cold, by regard of their impious Project, yet they would alwayes remember to ſay with <hi>Mantuan, Optimum eſt aliena frui pecunia.</hi> They ſip't of honeſt mens cups, and did diſtend their purſes in their Bacchanalian ryot, for they drowned them<g ref="char:EOLhyphen"/>ſelves in <hi>Bacchus</hi> Fountaine, while other men payd the reckoning. They did alwaies ſhare with the Butler in his Box, yea they grew ſo fat and plump with damned Projects, that it was eaſier for <hi>Hercules</hi> to beate the Triple-headed Cerberous out of Hells Stygian Portals, then for us of late, to ſpeake againſt theſe curſed Pro<g ref="char:EOLhyphen"/>jectors, who abuſed the Triple Crowne. But (we thank the all-directing providence of the mighty and Al<g ref="char:EOLhyphen"/>mighty <hi>God</hi>) we have found the like ſucceſſe with <hi>Her<g ref="char:EOLhyphen"/>cules,</hi> and by the inflexible Iuſtice of the <hi>Parliament,</hi> we ſhall with him, drag theſe Hell-hounds upon the earth, who did eradicate the well planted branch of Plenty. They were heretofore ſo Epidemically ſtrict, that they would not bate us a pin in their exactions; they have worne a Vizard a long time: But a Vizard ſayd I? Their pride was a ſufficient Vizard, for it was no mar<g ref="char:EOLhyphen"/>vaile that no man elſe could know them, when they knew not themſelves. But when the <hi>Parliament</hi> ſhall once unface theſe, they will prove as bad as any cards in the packe. They were <hi>Janus</hi>-like, and had two Cloakes to hide their knavery; and like the Pythagore<g ref="char:EOLhyphen"/>an Monſter, they did threaten to devoure the whole Commons at a mouth-full. In <hi>Aegypt</hi> the thirſty Dog could never lap of the River <hi>Nilus,</hi> but the Crocodile
+<pb n="3" facs="tcp:156980:3"/>
+               <!-- PDF PAGE 9 -->would aſſault him immediatly. Neither in our Land could any honeſt man, whom drie neceſſi<g ref="char:EOLhyphen"/>tie by compulſive coercion required to allay his ſitia<g ref="char:EOLhyphen"/>ting thirſt, ſip at the odoriferous Spring of <hi>Bacchus,</hi> but incontinently he was aſſayled by theſe curſed Cro<g ref="char:EOLhyphen"/>codiles, the rubbiſh of Babylon, Honeſties Hangman, fomenters of Impietie, Iniquities prodigious Mon<g ref="char:EOLhyphen"/>ſters, Plenties execrable Foes, Envies individuall Companions, deteſtable Enemies to loyall Subjects; and in a word, that I may fully paint them out, The Devills Journey-men. The <hi>Romans</hi> were never in more danger of the <hi>Sabines,</hi> than wee have beene of theſe pernicious members: the <hi>Sicilians</hi> never feared the <hi>Baſilisk</hi> more, nor the <hi>Cretans</hi> the <hi>Minotaure,</hi> neither the <hi>Athenians</hi> that peſtiferous Serpent <hi>Epidaurus,</hi> than we have juſtly feared theſe wicked Dragons of impiety. They are like the <hi>Grecian</hi> Horſe, in the midſt of <hi>Troy,</hi> under pretence of ſafety, but at length conſumed the whole city: So theſe firebrands of iniquitie would have extirpated the flouriſhing plenty of the Land, but (thanks be to God and the righteous Parliament) they are now extinguiſhed. For as a rotten member <hi>Enſe recidendum eſt, ne pars ſinceratrahatur,</hi> ought to be cut off, leaſt it infect, and contaminate the whole bo<g ref="char:EOLhyphen"/>dy; ſo ought theſe wicked members of the Common-wealth to be executed with the Sword of Iuſtice, who have already too farre polluted the body of the Realme. Tis a plauſible aſſimulation which <hi>Hippocra<g ref="char:EOLhyphen"/>tes</hi> obſerveth, that in the body naturall, as it muſt be truely purged, before it can be truely ſound: ſo like<g ref="char:EOLhyphen"/>wiſe in the body politicke, unleſſe theſe improbous malefactors be purged out, it can never be truly ſound. Their very name Monopolers doth ſtigmatize them under the brand of knavery, which is derived from <hi>Móroc</hi>
+               <pb n="2" facs="tcp:156980:4"/>
+               <!-- PDF PAGE 10 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:156980:4"/>
+               <!-- PDF PAGE 10 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:156980:5"/>
+               <!-- PDF PAGE 11 -->which ſignifies in Engliſh, <hi>Onely:</hi> ſo that Monopolers, are the <hi>Onely Polers</hi> of the people, which have abuſed them by their Projects: But now (alas poore men!) they are intruſs'd and like to be whipp'd. Their very Projects themſelves are ſet againſt them: Their Coles which they did aggerate are ready to conſume them: The Butter, which before greaſed their pockets, now melts in their mouthes: The Sope ſcornes to be pro<g ref="char:EOLhyphen"/>jected any longer, and will invert its firſt Letter <hi>S.</hi> into <hi>R.</hi> and become a Rope to them rather. The Salt is ready to pouder them to Tiburne: The Cards ſcorne that they ſhould play the Knave any longer: The Pinnes could pin their Heads to the Gall-houſe, The Wine threatens to lay them dead—drunke: but hang them they are ſo crafty, that although they fall downe in a Wine-Seller, yet they know how to riſe up agine in a Tobacco-Shop, but I hope before they riſe there, they will firſt riſe up at the Gall-houſe: where I'le-leave them—By theſe, and the like enormities have our Land beeue too farre overſpread, it hath lately flouriſhed too luxuriouſly in impiety, which did accumulate ſuch inſupportable burthens to the weather-beaten Commons of this Realme, that they were almoſt everted. But thankes be to the all-diſpoſig omnipotence of immortall God, who have alwayes preſerved this Kingdome from innumerable evills, and have kept it as the apple of his eye. I ſay thankes be to his Supremacy, who among other evills have preſerved us likewiſe from the Tyranny of theſe inſulting Projectors. But we now ſolely depend upon the Parliaments exemplary piety and great Juſtice, of whom we beg with all humility, and with affectionate fervency to the truth, doe ſupplicate that they would with expedition extinguiſh theſe curſed firebrands
+<pb n="5" facs="tcp:156980:5"/>
+               <!-- PDF PAGE 11 -->of the Land, who like <hi>Samſons</hi> Foxes have conſumed the Lands and Poſſions of the Commons. Wherefore let every true hearted Subject enumerate his expreſſe thankefulneſſe to Almigty God for the preſervation of this Kingdome, and the multitude of his favours ir<g ref="char:EOLhyphen"/>rigated thereon with all alacritie.</p>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>A</hi> Thanksfullneſſe to <hi>GOD</hi> for his Mercy towrds this <hi>KINGDOME:</hi>
+            </head>
+            <l>VVE bleſſe &amp; magnifie (great God!) thy Name</l>
+            <l>Who juſtly doſt exenterate with ſhame</l>
+            <l>All Enemies to Thee, and us who doſt</l>
+            <l>Preſerve this Kingdome with thy favours moſt.</l>
+            <l>By Thee our baſe Monopolers doe fall</l>
+            <l>Falſe Prelates, and falſe Papiſts in their Gall.</l>
+            <l>By Thee Projectors vaniſh, and by Thee</l>
+            <l>The Church has beene preſerv'd from Popery.</l>
+            <l>By Thee our Canoniſts requoile, and turne</l>
+            <l>Their Innovations to a dolefull Urne.</l>
+            <l>By Thee all Pontificians dote deplore</l>
+            <l>Their fortune more diaſtruous and more.</l>
+            <l>Thus in our Hemiſphere, while the bright Sunne</l>
+            <l>Deſplayes his radiant ſplendor, and doe runne</l>
+            <l>Through the twelve Signes i'th' Zodiacke, and then</l>
+            <l>Smileth upon the face of mortall men:</l>
+            <l>Thus while the Queene of night doe beautifie</l>
+            <l>Her ſelfe, and gilds the Star-beſpangled Sky:</l>
+            <l>
+               <pb n="6" facs="tcp:156980:6"/>
+               <!-- PDF PAGE 12 -->
+While liquid rivers doe returne againe</l>
+            <l>Wandring abroad into the greedy maine,</l>
+            <l>Yea, while our pious hearts remaine to be,</l>
+            <l>We yeeld a thankefull ſacrifice to Thee.</l>
+            <l>And as we thanke Thee for thy Favours paſt,</l>
+            <l>So we doe ſupplicate a bleſſings laſt.</l>
+            <l>Firſt, that Thou would'ſt extenerate all thoſe</l>
+            <l>That are Monopolers, or other Foes.</l>
+            <l>And Then (oh!) then conduct the Church aright</l>
+            <l>For our Salvation and thy Heavenly Right.</l>
+            <l>That we may ſerve Thee, ſerving Thee we may</l>
+            <l>Rejoyce, rejoycing triumph, in that day:</l>
+            <l>Triumphing, then exult, exulting raiſe</l>
+            <l>Glory to Thee, and ſerve Thee all our Dayes.</l>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
